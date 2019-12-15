@@ -1,1 +1,3 @@
-console.log('hello ts')
+const hello = 'hello'
+const ts = 'ts'
+console.log(hello, ts)
